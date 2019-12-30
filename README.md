@@ -1,17 +1,17 @@
-## DigitalClock
-[Digital Clock For Current Time]
+## Mendix DigitalClock
+[Digital Clock Widget for Mendix to Show current time]
 
 ## Features
-[feature highlights]
+* Show Current time in local
+* Can addd new css style or css class
 
 ## Usage
-[step by step instructions]
+* Drag & Drop Clock Widget in Page
+* Style Clock text & font color
 
-## Demo project
-[link to sandbox]
+![alt text](https://github.com/Yogendra0Sharma/MXDigitalClock/blob/master/assets/2.PNG)
+
 
 ## Issues, suggestions and feature requests
-[link to GitHub issues]
+[https://github.com/Yogendra0Sharma/MXDigitalClock/issues]
 
-## Development and contribution
-[specify contribute]
