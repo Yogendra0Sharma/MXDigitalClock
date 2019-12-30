@@ -1,0 +1,9 @@
+Buildfile: C:\Users\skbaz9\Desktop\mendixWidget\digitalClock\dist\MxTestProject\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\skbaz9\Desktop\mendixWidget\digitalClock\dist\MxTestProject\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

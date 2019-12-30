@@ -1,0 +1,12 @@
+Buildfile: C:\Users\skbaz9\Desktop\mendixWidget\digitalClock\dist\MxTestProject\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 28 source files to C:\Users\skbaz9\Desktop\mendixWidget\digitalClock\dist\MxTestProject\deployment\run\bin
+
+package:
+      [jar] Building jar: C:\Users\skbaz9\Desktop\mendixWidget\digitalClock\dist\MxTestProject\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+
+
