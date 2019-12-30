@@ -11,6 +11,7 @@
 
 ![alt text](https://github.com/Yogendra0Sharma/MXDigitalClock/blob/master/assets/2.PNG)
 
+![alt text](https://github.com/Yogendra0Sharma/MXDigitalClock/blob/master/assets/3.PNG)
 
 ## Issues, suggestions and feature requests
 [https://github.com/Yogendra0Sharma/MXDigitalClock/issues]
